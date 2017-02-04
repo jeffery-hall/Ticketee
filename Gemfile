@@ -49,4 +49,3 @@ end
 group :test do
   gem 'capybara', '~> 2.12.0'
 end
-
