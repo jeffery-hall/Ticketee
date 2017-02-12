@@ -1,2 +1,2 @@
 # Ticketee
-Ticket tracking
+Issue tracker.  A work in progress.
